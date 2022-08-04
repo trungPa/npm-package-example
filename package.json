@@ -1,0 +1,19 @@
+{
+  "name": "ktsn-npm-package-example",
+  "version": "1.0.1",
+  "main": "index.js",
+  "unpkg": "index.browser.js",
+  "author": "katashin",
+  "description": "Package example",
+  "keywords": ["example"],
+  "license": "MIT",
+  "homepage": "https://github.com/trungPa/npm-package-example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trungPa/npm-package-example"
+  },
+  "bugs": {
+    "url": "https://github.com/Giveth/liquidpledging/issues"
+  },	
+  "funding": "https://github.com/trungPa/npm-package-example"
+}
